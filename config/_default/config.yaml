@@ -5,7 +5,7 @@
 
 title: Pradeep Muthukrishnan # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '© {2021} Pradeep Muthukrishnan' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Pradeep Muthukrishnan' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
