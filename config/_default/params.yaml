@@ -29,6 +29,7 @@ address:
   postcode: '14853'
   country: United States
   country_code: US
+ 
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
