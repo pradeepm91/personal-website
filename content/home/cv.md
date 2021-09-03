@@ -18,7 +18,7 @@ design:
 
 <!-- {{< embed-pdf url="uploads/resume.pdf">}} -->
 
-<iframe src  = "https://www.dropbox.com/s/zd4y0m7zhbr0pac/resume.pdf?raw=1" width="720" height="640"></iframe>
+<iframe src  = "/uploads/resume.pdf" width=100% height=720></iframe>
 <!-- {{< load-photoswipe >}}
 {{< gallery hover-effect="none" caption-position="none">}}
   {{< figure src="uploads/resume/resume-page-001.jpg" >}}
