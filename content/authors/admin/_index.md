@@ -10,7 +10,8 @@ role: PhD Student in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: SC Johnson Graduate School of Management, Cornell University
+- name: SC Johnson Graduate School of Management,
+          Cornell University
   url: https://www.johnson.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,7 +32,7 @@ education:
   - course: MSc in Financial Economics
     institution: University of Oxford
     year: 2014
-  - course: B.Tech. (Hons) in Aerospace Engineering
+  - course: B.Tech. (Hons.) in Aerospace Engineering
     institution: Indian Institute of Technology, Kharagpur
     year: 2013
 
@@ -52,7 +53,11 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-- icon: linkedin
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3128309
+
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/pradeepmkrishnan/
 

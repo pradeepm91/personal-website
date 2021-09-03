@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-{{< cta cta_text="Download" cta_link="uploads/resume.pdf" cta_new_tab="true" >}} 
+{{< cta cta_text="Download CV" cta_link="uploads/resume.pdf" cta_new_tab="true" >}} 
 <a
   href="https://www.dropbox.com/s/zd4y0m7zhbr0pac/resume.pdf?dl=0"
   class="dropbox-embed"

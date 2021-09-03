@@ -29,8 +29,7 @@ experience:
     location: 'Mumbai, India'
     date_start: '2015-01-01'
     date_end: '2016-07-16'
-    description: |2-
-        * CDS, CDO & CL Trading
+    description: CDS, CDO & CLO Trading
         
         
   - title: Trading Assistant

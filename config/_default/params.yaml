@@ -7,7 +7,9 @@
 
 theme: big_red
 day_night: true
-font: 'open_sans'
+# font: 'open_sans'
+# font: 'nunito'
+font: 'muli'
 font_size: m
 
 # SEO
@@ -21,7 +23,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: pm532@cornell.edu
-phone: 607 697 38 04
+phone: (607) 697-3804
 address:
   street: 241 Sage Hall, 114 Feeney Way
   city: Ithaca
