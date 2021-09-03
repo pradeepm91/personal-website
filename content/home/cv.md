@@ -13,5 +13,5 @@ design:
 
 <div class="myWrapper" markdown="1">
 
-Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}{{< embed-pdf url="uploads/resume.pdf">}}
+Download {{< staticref "uploads/resume.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} {{< /staticref >}}{{< embed-pdf url="uploads/resume.pdf">}}
 </div>
