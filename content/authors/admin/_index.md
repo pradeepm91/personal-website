@@ -10,11 +10,11 @@ role: PhD Student in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: SC Johnson Gradaute School of Management, Cornell University
+- name: SC Johnson Graduate School of Management, Cornell University
   url: https://www.johnson.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 interests:
@@ -46,8 +46,8 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=P_qhgZEAAAAJ&hl=en&oi=ao
 #- icon: github
 #  icon_pack: fab
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pm532@cornell.edu"
@@ -70,8 +70,12 @@ email: "pm532@cornell.edu"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Finance at the SC Johnson Graduate School of Management, Cornell University. Prior to my PhD I worked for Deutsche Bank in wholesale CDS, CDO and CLO trading. I obtained an M.Sc. in Financial Economics from the University of Oxford (2014) and a B.Tech. (Hons.) from the Indian Institute of Technology, Kharagpur (2013).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research is in empirical corporate finance with a focus on bank and corporate liquidity policies, and corporate hiring decisions. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am on the 2020-2021 job market and will be available for interviews at the FMA meetings in Denver in October 2021. 
+
+References: Murillo Campello (Chair), Hyunseob Kim, Justin Murfin.
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

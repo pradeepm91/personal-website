@@ -23,7 +23,7 @@ twitter: ''
 email: pm532@cornell.edu
 phone: 607 697 38 04
 address:
-  street: 114 Feeney Way
+  street: 241 Sage Hall, 114 Feeney Way
   city: Ithaca
   region: NY
   postcode: '14853'
@@ -33,7 +33,7 @@ address:
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: 241 Sage Hall
+#directions: 241 Sage Hall
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
@@ -60,7 +60,7 @@ directions: 241 Sage Hall
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: false
