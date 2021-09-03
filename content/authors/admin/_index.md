@@ -76,6 +76,6 @@ My research is in empirical corporate finance with a focus on bank and corporate
 
 I am on the 2021-2022 job market and will be available for interviews at the FMA meetings in Denver in October 2021. 
 
-References: Murillo Campello (Chair), Hyunseob Kim, Justin Murfin.
+References: {{< staticref "https://www.murillocampello.com/" "newtab" >}}Murillo Campello{{< /staticref >}} (Chair), {{< staticref "https://sites.google.com/view/hyunseobkim/" "newtab" >}}Hyunseob Kim{{< /staticref >}}, {{< staticref "https://dyson.cornell.edu/faculty-research/faculty/jm2692/" "newtab" >}}Justin Murfin{{< /staticref >}}.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
