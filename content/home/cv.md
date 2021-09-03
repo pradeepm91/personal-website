@@ -19,7 +19,7 @@ design:
   href="https://www.dropbox.com/s/zd4y0m7zhbr0pac/resume.pdf?dl=0"
   class="dropbox-embed"
   data-height="720px"
-  data-width=100%></a>
+  data-width=90%></a>
 <!-- <iframe src  = "https://www.dropbox.com/s/zd4y0m7zhbr0pac/resume.pdf?raw=1" width=100% height=720></iframe> -->
 <!-- {{< load-photoswipe >}}
 {{< gallery hover-effect="none" caption-position="none">}}
