@@ -74,7 +74,7 @@ I am a PhD student in Finance at the SC Johnson Graduate School of Management, C
 
 My research is in empirical corporate finance with a focus on bank and corporate liquidity policies, and corporate hiring decisions. 
 
-I am on the 2020-2021 job market and will be available for interviews at the FMA meetings in Denver in October 2021. 
+I am on the 2021-2022 job market and will be available for interviews at the FMA meetings in Denver in October 2021. 
 
 References: Murillo Campello (Chair), Hyunseob Kim, Justin Murfin.
 
