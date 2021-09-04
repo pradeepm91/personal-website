@@ -27,7 +27,7 @@
   margin: 20px 0 10px 0; }
 
 .portrait-title h3 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.7);
   margin: 0 0 10px 0; }
@@ -83,15 +83,6 @@ ul.ul-edu li .description p.institution {
     font-size: 1.2rem; }
 
     body {
-      font-family: inherit;
-      font-size: 1rem;
-      line-height: inherit;
-      color: inherit;
-      background-color: white;
-      padding-top: 0;
-      counter-reset: captions;
-      overflow-x: hidden;
-      margin-top: 70px;
       text-align: justify;
       }
       .btn {
@@ -100,3 +91,17 @@ ul.ul-edu li .description p.institution {
         line-height: 0.9;
         border-radius: 0.3rem;
     }
+
+    .navbar {
+            font-size: 1rem;
+    }
+    ul.ul-interests li {
+      font-size: 1rem;
+  }
+  ul.ul-edu li .description p.course {
+    font-size: 1rem;
+}
+ul.ul-edu li .description p.institution {
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.6);
+}

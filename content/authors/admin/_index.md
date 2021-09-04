@@ -23,6 +23,11 @@ interests:
 - Banking and Credit
 - Corporate Hiring
 
+references:
+- Murillo Campello
+- Hyunseob Kim
+- Justin Murfin
+
 # Education to show in About widget
 education:
   courses:
@@ -64,9 +69,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pm532@cornell.edu"
@@ -79,10 +84,9 @@ I am a PhD student in Finance at the SC Johnson Graduate School of Management, C
 
 I am on the 2021-2022 job market and will be available for interviews at the FMA meetings in Denver in October 2021. 
 
+##### References: {{< staticref "https://www.murillocampello.com/" "newtab" >}}Murillo Campello{{< /staticref >}} (Chair), {{< staticref "https://sites.google.com/view/hyunseobkim/" "newtab" >}}Hyunseob Kim{{< /staticref >}}, {{< staticref "https://dyson.cornell.edu/faculty-research/faculty/jm2692/" "newtab" >}}Justin Murfin{{< /staticref >}}
 {{< cta cta_text="Download CV" cta_link="uploads/resume.pdf" cta_new_tab="true" >}}
 
-
-References: {{< staticref "https://www.murillocampello.com/" "newtab" >}}Murillo Campello{{< /staticref >}} (Chair), {{< staticref "https://sites.google.com/view/hyunseobkim/" "newtab" >}}Hyunseob Kim{{< /staticref >}}, {{< staticref "https://dyson.cornell.edu/faculty-research/faculty/jm2692/" "newtab" >}}Justin Murfin{{< /staticref >}}
 
 
 
