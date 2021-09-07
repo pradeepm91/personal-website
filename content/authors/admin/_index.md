@@ -20,7 +20,7 @@ bio: ''
 # Interests to show in About widget
 interests:
 - Empirical Corporate Finance
-- Banking and Credit
+- Financial Intermediation
 - Corporate Hiring
 
 references:
@@ -80,7 +80,7 @@ email: "pm532@cornell.edu"
 highlight_name: false
 ---
 
-I am a PhD student in Finance at the SC Johnson Graduate School of Management, Cornell University. Prior to my PhD I worked for Deutsche Bank in wholesale CDS, CDO and CLO trading. I obtained an M.Sc. in Financial Economics from the University of Oxford (2014) and a B.Tech. (Hons.) from the Indian Institute of Technology, Kharagpur (2013). My research is in empirical corporate finance with a focus on bank and corporate liquidity policies, and corporate hiring decisions. 
+I am a PhD student in Finance at the SC Johnson Graduate School of Management, Cornell University. My primary research interest lies infinancial contracting, with a particular focus on applications in financial intermediation and labor markets.  My research utilizes novel data sets and techniques drawn from varied domains to identify soft-information content in financial contracting. 
 
 I am on the 2021-2022 job market and will be available for interviews at the FMA meetings in Denver in October 2021. 
 
