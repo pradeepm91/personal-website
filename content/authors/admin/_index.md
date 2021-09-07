@@ -80,7 +80,7 @@ email: "pm532@cornell.edu"
 highlight_name: false
 ---
 
-I am a PhD student in Finance at the SC Johnson Graduate School of Management, Cornell University. My primary research interest lies infinancial contracting, with a particular focus on applications in financial intermediation and labor markets.  My research utilizes novel data sets and techniques drawn from varied domains to identify soft-information content in financial contracting. 
+I am a PhD student in Finance at the SC Johnson Graduate School of Management, Cornell University.  My primary research interest lies in empirical corporate finance, with a particular focus on the applications financial contracting in financial intermediation and labor markets.  My research utilizes novel data sets and techniques drawn from varied domains to identify soft-information content in financial contracting. 
 
 I am on the 2021-2022 job market and will be available for interviews at the FMA meetings in Denver in October 2021. 
 
