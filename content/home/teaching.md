@@ -29,9 +29,9 @@ experience:
     location: 'Classroom/Online'
     date_start: '2020-01-01'
     date_end: '2020-05-01'
-    description: |2-
-        * Instructor Rating: 4.07/5
-        * Course Rating: 4.07/5
+    # description: |2-
+    #      * Instructor Rating: 4.07/5
+    #     # * Course Rating: 4.07/5
         
   # - title: Professor of Semiconductor Physics
   #   company: University X

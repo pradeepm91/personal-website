@@ -5,7 +5,7 @@ summary: "(with <a href=\"https://www.murillocampello.com\" target=\"_blank\" re
 
 tags: 
 - Other
-date: "2020-05-8T00:00:00Z"
+date: -2
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3596655"

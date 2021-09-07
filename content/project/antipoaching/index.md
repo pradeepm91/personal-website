@@ -5,7 +5,7 @@ summary: "(with <a href=\"https://um.edu.uy/unidad-de-maestrias-y-postgrados-en-
 
 tags: 
 - WIP
-date: "2020-05-8T00:00:00Z"
+date: -3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
