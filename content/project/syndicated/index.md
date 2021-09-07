@@ -1,9 +1,11 @@
 ---
-title: "Corporate Liquidity under Basel III: The Credit Line Channel"
-summary: "Basel III imposed an unprecedented liquidity requirement on banks by way of the Liquidity Coverage Ratio (LCR). In this paper, I show that a consequence of the LCR regulation was a dramatic reduction U.S. banks' ability to originate and maintain credit lines manifested as an aggregate decline in syndicated credit line lending. I introduce novel metrics drawn from a machine learning analysis of contractual agreements, and show that banks increase monitoring and pass on their increased costs of maintaining credit lines primarily to entrenched borrowers. While non-regulated lenders partly offset the lending declines, they exhibit lower geographical reach and higher lending strictness. The aggregate result is a credit line market that is inconducive to borrowing firms. Unconstrained, innovative, and low--default-risk firms reduce their reliance on intermediated corporate liquidity, suggesting that the observed lending declines are firm-driven choices. Such firms instead rely on debt-financed cash for corporate liquidity, rendering them riskier. These results reveal important changes to corporate liquidity preferences and risk profiles when intermediation is costly."
-tags:
-- Job Market Paper
-date: "2021-08-27T00:00:00Z"
+title: "Political Uncertainty and Geographical Reallocation of Bank Syndicated Lending"
+subtitle: 
+summary: "(with <a href=\"https://www.johnson.cornell.edu/faculty-research/faculty/hi75/\" target=\"_blank\" rel=\"noopener\">Hassan Ilyas</a>) \n\n Work in Progress"
+
+tags: 
+- WIP
+date: "2020-05-8T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +20,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "uploads/Muthukrishnan__Bank_Liquidity_2021.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
