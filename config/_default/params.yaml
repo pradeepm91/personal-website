@@ -17,7 +17,7 @@ font_size: m
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Phd Candidate in Finance at Cornell University'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -82,7 +82,7 @@ highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -148,8 +148,8 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
+  google_analytics: 'G-T39T8SRR74'
+  google_tag_manager: 'GTM-NJV3M45'
   google_site_verification: ''
   baidu_site_verification: ''
   baidu_tongji: ''
