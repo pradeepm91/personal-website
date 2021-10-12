@@ -1,8 +1,6 @@
 ---
 title: "Corporate Liquidity under Basel III: The Credit Line Channel"
-summary: " (Job Market Paper) \n \n The Basel III Liquidity Coverage Ratio (LCR) rule imposed an unprecedented liquidity requirement on U.S. banks and increased their costs of maintaining credit lines. I show that banks tend to pass on their increased costs to borrowers and are curtailed in their ability to originate credit lines. I introduce novel metrics drawn from a machine learning analysis of contractual agreements, and further show that banks retain greater control in credit lines. The net result is
-a decline in credit line origination and a market that is unfavorable to borrowers. Financially unconstrained firms largely contribute to borrowing declines and turn to debt-financed cash for corporate liquidity, rendering them riskier. My results reveal important changes to corporate
-liquidity preferences and risk profiles when intermediation is costly."
+summary: " (Job Market Paper) \n \n The Basel III Liquidity Coverage Ratio (LCR) rule imposed unprecedented liquidity requirements on banks. I show that the regulation curtails banks' ability to originate credit lines, with banks seeking to pass on increased maintenance costs to borrowers. I introduce novel metrics drawn from a machine learning analysis of contractual agreements and demonstrate that banks retain greater control in credit lines. The result is a decline in credit line origination and a market that is unfavorable to borrowers. Financially unconstrained firms drive borrowing declines and turn to debt-financed cash for corporate liquidity, rendering them riskier. My results are novel in revealing changes to corporate liquidity preferences and risk profiles when intermediation is costly."
 tags:
 - Job Market Paper
 date: -1
