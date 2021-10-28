@@ -84,7 +84,7 @@ highlight_name: false
 
 I am a PhD student in Finance at the SC Johnson Graduate School of Management, Cornell University.  I am an empirical corporate finance researcher with a focus on financial contracting and, particularly, its applications in intermediation and labor markets. My research explores the effects of financial and real frictions on intermediation and firms' human capital. 
 
-I am on the 2021-2022 job market and will be available for interviews at the FMA meetings in Denver in October 2021 and remotely. 
+I am on the 2021-2022 job market and will be available for interviews remotely. 
 
 ##### References: {{< staticref "https://www.murillocampello.com/" "newtab" >}}Murillo Campello{{< /staticref >}} (Chair), {{< staticref "https://sites.google.com/view/hyunseobkim/" "newtab" >}}Hyunseob Kim{{< /staticref >}}, {{< staticref "https://dyson.cornell.edu/faculty-research/faculty/jm2692/" "newtab" >}}Justin Murfin{{< /staticref >}}
 {{< cta cta_text="Download CV" cta_link="uploads/Pradeep Muthukrishnan.pdf" cta_new_tab="true" >}}
