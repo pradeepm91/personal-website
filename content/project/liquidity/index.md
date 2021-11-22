@@ -6,7 +6,7 @@ tags:
 date: -1
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.dropbox.com/s/ikze28p6wxqyxtr/Muthukrishnan__Bank_Liquidity_2021.pdf?dl=0"
+external_link: "" #"https://www.dropbox.com/s/ikze28p6wxqyxtr/Muthukrishnan__Bank_Liquidity_2021.pdf?dl=0"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
