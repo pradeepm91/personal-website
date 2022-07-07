@@ -1,0 +1,22 @@
+# Theme metadata
+name = "big_red"
+
+[light]
+  # Primary
+  primary = "#006747"
+
+  # Menu
+  menu_primary = "#006747"
+  menu_text = "#ffffff"
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
+
+  

@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: tulane
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: muli
+  font_size: M
 
 # SEO
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Assistant Professor of Finance at Tulane University Freeman School of Business.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -32,22 +32,22 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Pradeep Muthukrishnan.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
