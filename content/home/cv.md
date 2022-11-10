@@ -12,7 +12,8 @@ design:
 ---
 {{< cta cta_text="Download CV" cta_link="uploads/Pradeep Muthukrishnan.pdf" cta_new_tab="true" >}} 
 <a
-  href="https://www.dropbox.com/s/j53v6ms956guzll/Pradeep%20Muthukrishnan.pdf?dl=0"
+  href="https://www.dropbox.com/s/fvy58h2eazefhyi/Pradeep%20Muthukrishnan.pdf?dl=0"
   class="dropbox-embed"
   data-height="720px"
   data-width=90%></a>
+  
