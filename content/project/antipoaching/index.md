@@ -15,10 +15,10 @@ date: -3
 #   focal_point: Smart
 
 links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+ - icon: trophy
+   icon_pack: fab
+   name: Best Paper in Corporate Finance (FMA 2022)
+   url: https://www.fma.org/conference-awards
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
