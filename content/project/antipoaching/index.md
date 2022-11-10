@@ -15,7 +15,7 @@ date: -3
 #   focal_point: Smart
 
 links:
- - icon: trophy
+ - icon: award
    icon_pack: fab
    name: Best Paper in Corporate Finance (FMA 2022)
    url: https://www.fma.org/conference-awards
