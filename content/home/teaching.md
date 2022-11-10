@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Fixed Income Analytics and Modelling'
+    company: 'Tulane University'
+    company_url: ''
+    company_logo: 'tulane'
+    location: 'Hybrid'
+    date_start: '2022-08-01'
+    date_end: '2022-12-01'
   - title: Managerial Finance
     company: 'Cornell University'
     company_url: ''
@@ -33,13 +40,7 @@ experience:
     #      * Instructor Rating: 4.07/5
     #     # * Course Rating: 4.07/5
         
-  - title: 'Fixed Income Analytics and Modelling'
-    company: 'Tulane University'
-    company_url: ''
-    company_logo: 'tulane'
-    location: 'Hybrid'
-    date_start: '2022-08-01'
-    date_end: '2022-12-01'
+  
   # - title: Professor of Semiconductor Physics
   #   company: University X
   #   company_url: ''
