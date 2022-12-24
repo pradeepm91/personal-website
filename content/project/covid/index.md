@@ -1,10 +1,10 @@
 ---
-title: "Corporate Hiring under Covid-19"
-subtitle: 
-summary: "(with <a href=\"https://www.murillocampello.com\" target=\"_blank\" rel=\"noopener\">Murillo Campello</a> and <a href=\"https://www.gauravkankanhalli.com\" target=\"_blank\" rel=\"noopener\">Gaurav Kankanhalli</a>) \n\n Big data on job vacancy postings reveal multiple dimensions of the impact of Covid-19 on corporate hiring. Firms disproportionately cut on hiring for high-skill positions (*within-firm downskilling*), with financially constrained firms reducing high-skill hiring the most. Applying machine learning to job-ad texts, we show that firms have skewed hiring towards operationally-core functions. New positions also take longer to fill, displaying greater flexibility regarding schedules and tasks. Financing constraints amplify pandemic-induced changes to the nature of positions firms seek to fill, with constrained firms’ new hires witnessing far greater adjustments to jobs roles and employment arrangements."
+title: "Corporate Hiring under Covid-19: Financial Constraints and the Nature of New Jobs"
+subtitle: "(with <a href=\"https://www.murillocampello.com\" target=\"_blank\" rel=\"noopener\">Murillo Campello</a> and <a href=\"https://www.gauravkankanhalli.com\" target=\"_blank\" rel=\"noopener\">Gaurav Kankanhalli</a>) \n\n <i><b> Journal of Financial and Quantitative Analysis</i></b>, Forthcoming"
+summary: "Big data on job vacancy postings reveal multiple dimensions of the impact of Covid-19 on corporate hiring. Firms disproportionately cut on hiring for high-skill positions (*within-firm downskilling*), with financially constrained firms reducing high-skill hiring the most. Applying machine learning to job-ad texts, we show that firms have skewed hiring towards operationally-core functions. New positions also take longer to fill, displaying greater flexibility regarding schedules and tasks. Financing constraints amplify pandemic-induced changes to the nature of positions firms seek to fill, with constrained firms’ new hires witnessing far greater adjustments to jobs roles and employment arrangements."
 
 tags: 
-- Other
+- pub
 date: -1
 
 # Optional external URL for project (replaces project detail page).
