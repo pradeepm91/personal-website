@@ -21,8 +21,8 @@ links:
 #   url: https://twitter.com/georgecushen
   - name: "NBER Working Paper No. 27208"
     url: "https://www.nber.org/papers/w27208"
-  - name: "Revise & Resubmit"
-    url: "/#"
+#  - name: "Revise & Resubmit"
+#    url: "/#"
 url_code: ""
 url_pdf: ""
 url_slides: ""
