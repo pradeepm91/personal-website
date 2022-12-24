@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Research
-subtitle: 'Working Papers'
+subtitle:
 
 content:
   # Page type to display. E.g. project.
