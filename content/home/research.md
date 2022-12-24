@@ -29,12 +29,13 @@ content:
     tag: '*'
   # - name: Job Market Paper
   #   tag: Job Market Paper
+  - name: Publications
+    tag: pub
   - name: Working Papers
     tag: Other
   - name: Works in Progress
     tag: WIP
-  - name: Publications
-    tag: pub
+
     
     
 
