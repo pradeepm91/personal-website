@@ -33,6 +33,10 @@ content:
     tag: Other
   - name: Works in Progress
     tag: WIP
+  - name: Publications
+    tag: pub
+    
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
