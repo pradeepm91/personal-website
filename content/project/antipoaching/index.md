@@ -1,14 +1,14 @@
 ---
-title: "Anti-Poaching Agreements, Corporate Hiring, and Innovation: Evidence from the Technology Industry"
+title: "Anti-Poaching Agreements, Innovation, and Corporate Value: Evidence from the Technology Industry"
 subtitle: 
-summary: "(with <a href=\"https://um.edu.uy/unidad-de-maestrias-y-postgrados-en-economia-umpe/daniel-ferres\" target=\"_blank\" rel=\"noopener\">Daniel Ferrés</a> and <a href=\"https://www.gauravkankanhalli.com\" target=\"_blank\" rel=\"noopener\">Gaurav Kankanhalli</a>) \n\n Using the 2010 prosecution of U.S. technology firms engaging in anti-poaching agreements as a shock, we study the impact of labor market collusion on corporate hiring and innovation.  During the collusive period, cartel firms displayed elevated job posting rates relative to comparable firms that were not party to these agreements.  Occupation-level tests show that the effects  were  amplified  in  job  roles  critical  to  the  firms’  operations.   Textual  analysis  of  job-ad descriptions provides evidence that cartel firms enjoyed greater bargaining power in the hiring process, with workers being offered lower flexibility, non-wage benefits, and training opportunities. Notably, cartel firms exhibited superior innovative capabilities over the collusive period, while the dissolution of the agreements led to a curtailment in their innovation output.  Our results reveal important linkages between firms’ anti-competitive conduct in labor markets and their innovation and market valuations."
+summary: "(with <a href=\"https://um.edu.uy/unidad-de-maestrias-y-postgrados-en-economia-umpe/daniel-ferres\" target=\"_blank\" rel=\"noopener\">Daniel Ferrés</a> and <a href=\"https://www.gauravkankanhalli.com\" target=\"_blank\" rel=\"noopener\">Gaurav Kankanhalli</a>) \n\n The U.S. Department of Justice initiated antitrust action in 2010 against several major Silicon Valley technology firms for engaging in anti-poaching agreements. Under the period of labor market collusion, cartel firms displayed elevated job posting rates in roles critical to their innovative activity and depressed inventor departure rates relative to comparable non-cartel firms. Accordingly, cartel firms produced superior innovation output over the collusive period, particularly in technology areas covered by the collusive agreements, while the dissolution of the agreements was accompanied by a reversal of this trend. Event-study tests around the unanticipated antitrust action show a negative returns response. Our results reveal important linkages between reduced employee turnover arising from firms' anti-competitive conduct in labor markets and their innovation, performance, and market valuations."
 
 tags: 
 - Other
 date: -3
 
 # Optional external URL for project (replaces project detail page).
-#external_link: ""
+#external_link: "https://westernfinance-portal.org/viewpaper?n=880740"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
