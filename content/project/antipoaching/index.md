@@ -8,7 +8,7 @@ tags:
 date: -3
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://westernfinance-portal.org/viewpaper?n=880740"
+external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552393"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
