@@ -33,8 +33,8 @@ content:
     tag: pub
   - name: Working Papers
     tag: Other
-  - name: Works in Progress
-    tag: WIP
+ # - name: Works in Progress
+ #   tag: WIP
 
     
     
