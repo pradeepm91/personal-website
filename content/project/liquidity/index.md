@@ -13,6 +13,10 @@ external_link: #"https://www.dropbox.com/s/ikze28p6wxqyxtr/Muthukrishnan__Bank_L
 #   focal_point: Smart
 
 links:
+ - icon: fa-award
+   icon_pack: fab
+   name: Semi-finalist, Best Paper in Corporate Finance (FMA 2023)
+   url: https://www.fma.org/conference-awards
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
