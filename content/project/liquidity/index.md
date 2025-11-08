@@ -3,7 +3,7 @@ title: "Corporate Liquidity under Basel III: The Credit Line Channel"
 summary: "The Basel III Liquidity Coverage Ratio (LCR) rule imposed unprecedented liquidity requirements on banks. I show that the regulation curtails banks' ability to originate credit lines, with banks seeking to pass on increased maintenance costs to borrowers. I introduce novel metrics drawn from a machine learning analysis of contractual agreements and demonstrate that banks retain greater control in credit lines. The result is a decline in credit line origination and a market that is unfavorable to borrowers. Financially unconstrained firms drive borrowing declines and turn to debt-financed cash for corporate liquidity, rendering them riskier. My results are novel in revealing changes to corporate liquidity preferences and risk profiles when intermediation is costly."
 tags:
 - Other
-date: -3
+date: -4
 
 # Optional external URL for project (replaces project detail page).
 external_link: #"https://www.dropbox.com/s/ikze28p6wxqyxtr/Muthukrishnan__Bank_Liquidity_2021.pdf?dl=0"
