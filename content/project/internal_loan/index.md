@@ -8,7 +8,7 @@ tags:
 date: -3
 
 # Optional external URL for project (replaces project detail page).
-# external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4552393"
+external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260219"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
