@@ -1,7 +1,7 @@
 ---
-title: "Loan-Funded Loans: Asset-Like Liabilities Inside Bank Holding Companies"
+title: "Loan-funded Loans: Equity-like Liabilities inside Bank Holding Companies"
 subtitle: 
-summary: "(with <a href=\"https://www.jenniebai.com/home\" target=\"_blank\" rel=\"noopener\">Jennie Bai</a> and <a href=\"https://www.murillocampello.com/\" target=\"_blank\" rel=\"noopener\">Murillo Campello</a>) \n\n  Leveraging unique regulatory data on internal fund flows between bank holding companies (BHCs) and their subsidiaries, this paper investigates the role of internal loans as an underexplored source of liquidity for commercial banks. Unlike traditional deposits, internal loans serve as asset‐like liabilities that offer banks a stable funding alternative. Our results show that banks with access to internal funding engage more aggressively in the syndicated lending market, originating larger loans with longer maturities and lower spreads while expanding relationships with new, marginal --- often financially constrained --- borrowers. Although these bank subsidiaries exhibit higher non‐performing loan ratios, the aggregate impact of internal loans on performance is positive. We also show how internal capital allocation decisions differ between bank and nonbank subsidiaries, with nonbanks receiving increasingly preferential treatment over time. Our findings underscore the critical importance of internal capital markets in shaping bank behavior and influencing credit access in the economy while undermining the transmission of monetary policy."
+summary: "(with <a href=\"https://www.jenniebai.com/home\" target=\"_blank\" rel=\"noopener\">Jennie Bai</a> and <a href=\"https://www.murillocampello.com/\" target=\"_blank\" rel=\"noopener\">Murillo Campello</a>) \n\n  Leveraging regulatory data on fund flows within bank holding companies (BHCs), we characterize internal loans as a critical funding source for commercial banks. Although recorded as bank liabilities, parent-to-bank internal loans function as contingent support that resembles capital. We show that internal-loan funded banks do not hoard liquidity; instead, they originate larger and longer-maturity loans at lower spreads, initiate more relationships with marginal borrowers, and retain larger shares in syndicated deals. Internal-loan-funded lending is followed by higher short-run profits but higher future nonperforming loan ratios. We further show that organizational structure shapes internal lending: in BHCs with both bank and nonbank operations, nonbank affiliates crowd out internal lending to banks and discipline banks' use of internal funds, and these BHCs exhibit higher overall performance. To identify our tests, we exploit the passage of the Gramm–Leach–Bliley Act and the announcement of the Basel III Accord, using instrumental variables and discontinuity-design approaches. Our findings highlight an equity-like internal debt channel that shapes monetary policy transmission, risk-taking, and the role of organizational structure in banking."
 
 tags: 
 - Other
@@ -18,6 +18,8 @@ external_link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260219"
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""
+  - name: "NBER Working Paper No. 34801"
+    url: "https://www.nber.org/papers/w34801"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
